@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656956443051",
+    "project_id": "shopping-app-778f2",
+    "storage_bucket": "shopping-app-778f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656956443051:android:3cdc4867a97c7ca5d82aee",
+        "android_client_info": {
+          "package_name": "com.shubhi.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656956443051-669vpu34d6r83f27oejsj0a9prdm3m1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlExt5CXGziQYBF06rwM8rdWJFVsAoE5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656956443051-669vpu34d6r83f27oejsj0a9prdm3m1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
