@@ -1,16 +1,26 @@
 # ceramicstore
 
-A new Flutter project.
+A Flutter Project in progress. 
 
-## Getting Started
+## What does it do?
 
-This project is a starting point for a Flutter application.
+It is a Shopping Application where users can buy as well as sell with the following Features :
+Firebase Backend
+Firebase Authentication
+Firebase Cloud Firestore
+Image Picker Plugin
+Firebase Cloud Storage
+Improved UI
+Animations that Enhance the UI but do not make the App look Janky and Laggy
+Custom JSON Animations (optional)
+Responsive UI and Platform Adaptive
 
-A few resources to get you started if this is your first Flutter project:
+## A list of its features
+Authenticates Users
+Has a Catalogue Section to view all Products, Add Them to cart, add them to Favourites
+Can Add, Remove Products from Cart, Place Order for Pay on Delivery
+Can Manage Products made by Users
+Can add Multiple Images of the same Product and create a Carousel, like in Amazon
+Has a Lottie Animation
+Of course, this is not like Amazon or Flipkart due to their huge Backends, but this is the First Step to Become a Flutter App Developer.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
